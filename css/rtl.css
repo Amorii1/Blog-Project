@@ -1,0 +1,7 @@
+.rtl-page {
+  direction: rtl;
+}
+
+.rtl-page h1 {
+  color: violet;
+}
